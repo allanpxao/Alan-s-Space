@@ -6,7 +6,7 @@ This repository gathers my programming projects developed with Python, JavaScrip
 
 🔍 Main focus: Data Analysis, with hands-on exercises aimed at developing skills in data manipulation, transformation, and visualization.
 
-📘 Numpy Library <a href="git@github.com:allanpxao/Numpy_Exercises.git" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+📘 Numpy Library   <a href="git@github.com:allanpxao/Numpy_Exercises.git" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Numpy Exercises-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 Efficient handling of arrays and multidimensional matrices
 High-performance mathematical and statistical operations
 Tools for linear algebra, random number generation, and simulations
