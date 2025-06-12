@@ -2,7 +2,7 @@
 
 This repository gathers my programming projects developed with Python, JavaScript, and HTML. It also includes work focused on Data Analysis using libraries such as Pandas and Numpy. It serves as a space for experimentation, continuous learning, and the development of creative solutions.
 
-🐍 **###Python**
+### 🐍 **Python**
 
 Main focus: Data Analysis, with hands-on exercises aimed at developing skills in data manipulation, transformation, and visualization.
 
