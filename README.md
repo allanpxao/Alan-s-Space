@@ -2,16 +2,16 @@
 
 This repository gathers my programming projects developed with Python, JavaScript, and HTML. It also includes work focused on Data Analysis using libraries such as Pandas and Numpy. It serves as a space for experimentation, continuous learning, and the development of creative solutions.
 
-### 🐍 **Python**
+### 🐍 **Python** 
 
 🔍 Main focus: Data Analysis, with hands-on exercises aimed at developing skills in data manipulation, transformation, and visualization.
 
-📘 Numpy Library git@github.com:allanpxao/Numpy_Exercises.git
+📘 Numpy Library <a href="git@github.com:allanpxao/Numpy_Exercises.git" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 Efficient handling of arrays and multidimensional matrices
 High-performance mathematical and statistical operations
 Tools for linear algebra, random number generation, and simulations
 
-📙 Pandas Library
+📙 Pandas Library 
 Data structures like DataFrame and Series for tabular data
 Reading and writing files (CSV, Excel, JSON, etc.)
 Data cleaning, transformation, and exploratory analysis
