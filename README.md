@@ -4,14 +4,14 @@ This repository gathers my programming projects developed with Python, JavaScrip
 
 ### 🐍 **Python**
 
-Main focus: Data Analysis, with hands-on exercises aimed at developing skills in data manipulation, transformation, and visualization.
+🔍 Main focus: Data Analysis, with hands-on exercises aimed at developing skills in data manipulation, transformation, and visualization.
 
-Numpy Library
+📘 Numpy Library
 Efficient handling of arrays and multidimensional matrices
 High-performance mathematical and statistical operations
 Tools for linear algebra, random number generation, and simulations
 
-Pandas Library
+📙 Pandas Library
 Data structures like DataFrame and Series for tabular data
 Reading and writing files (CSV, Excel, JSON, etc.)
 Data cleaning, transformation, and exploratory analysis
