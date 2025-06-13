@@ -16,4 +16,4 @@ Data structures like DataFrame and Series for tabular data
 Reading and writing files (CSV, Excel, JSON, etc.)
 Data cleaning, transformation, and exploratory analysis
 Applied in practical exercises using real-world datasets
-____________________________________________________________________________________________________________________________________________ 
+___________________________________________________________________________________________________________________________________________
